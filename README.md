@@ -1,2 +1,2 @@
-# JAVA-Folder
+# JAVA Basic
 USTC Student
