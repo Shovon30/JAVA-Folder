@@ -1,2 +1,2 @@
 # JAVA Basic
-USTC Student
+Some of the basics & beginner level knowledges of Java language. 
